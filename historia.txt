@@ -1,0 +1,8 @@
+{
+	"folders": [
+		{
+			"path": "/Users/mac/Documents/ionic/platzingermobile"
+		}
+	],
+	"settings": {}
+}
